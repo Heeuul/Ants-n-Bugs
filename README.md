@@ -1,6 +1,6 @@
 # Ants n Bugs
 
-Assignment - Object Oriented Analysis and Design
+_Object Oriented Analysis and Design - Assignment_
 
 ### 2D simulation of predator and prey.
 
