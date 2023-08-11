@@ -2,7 +2,17 @@
 
 _Object Oriented Analysis and Design - Assignment_
 
-### 2D simulation of predator and prey.
+### 2D simulation of predator and prey. 
+
+## To Simulate 
+1. Double-click "Run App.bat". 
+2. Enter cell size.
+3. Enter number of ants (must be lesser than cell size x 2). 
+4. Enter number of bugs (must be lesser than cell size x 2 - ants).
+5. Press any key once program starts.
+6. Press Enter for next step of action until one side is terminated. 
+
+## Details 
 
 ### Creatures:
 
