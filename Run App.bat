@@ -10,6 +10,6 @@ javac Program.java -d "./Compiled/"
 echo Program ready! 
 pause 
 
-java -classpath "./Compiled/" Program -bugs %bugNo% --ants %antNo% --size %mapsize% 
+java -classpath "./Compiled/" Program --bugs %bugNo% --ants %antNo% --size %mapsize% 
 
 rmdir /s /q Compiled 
