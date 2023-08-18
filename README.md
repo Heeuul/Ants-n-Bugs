@@ -34,18 +34,6 @@ _Object Oriented Analysis and Design - Assignment_
 ### Time:
 
 - Simulated in time steps.
-- Creatures perform some action every step.
-- Bugs move before ant.
+- Creatures perform an action every step.
+- Bugs move before ants.
 - Press ENTER for next time step.
-
-### Code:
-
-- Implement GUI.
-- public class Organism:
-  - Encapsulate basic data common to both creatures.
-  - Have overridden method 'move' that is defined derived classes of Ant and Bug.
-- May need additional data structures to track moved creatures.
-- Design program using atleast 1 design pattern.
-- UML diagram.
-- Comment for purpose and person wrote.
-- Properly indented.
