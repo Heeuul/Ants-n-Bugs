@@ -1,8 +1,6 @@
 # Ants n Bugs
 
-_Object Oriented Analysis and Design - Assignment_
-
-### 2D simulation of predator and prey. 
+Java app of 2D simulation of predator and prey behaviour in a tiled map. 
 
 ## To Simulate 
 1. Double-click "Run App.bat". 
