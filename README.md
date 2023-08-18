@@ -12,7 +12,7 @@ Java app of 2D simulation of predator and prey behaviour in a tiled map.
 
 ## Details 
 
-### Creatures:
+### <ins>Creatures</ins>
 
 1. Ants(prey):
    - Move: Move randomly any direction every time step unless all directions occupied.
@@ -22,14 +22,14 @@ Java app of 2D simulation of predator and prey behaviour in a tiled map.
    - Breed: Same as ant, except every 8 steps.
    - Starve: Removed after 3 steps not eating any ant.
 
-### World:
+### <ins>World</ins>
 
 - Square-shaped (equal width & height).
 - Enclosed so creatures can't get out.
 - 1 cell 1 creature.
 - Initialise with 5 bugs 100 ants.
 
-### Time:
+### <ins>Time</ins>
 
 - Simulated in time steps.
 - Creatures perform an action every step.
